@@ -16,7 +16,7 @@ def tic_tac_toe(board):
 
     x = 0
 
-    while x != len(board) - 1:
+    while x != len(board):
 
         column = []
 
@@ -45,3 +45,11 @@ def tic_tac_toe(board):
         return "O wins"
 
     return "Draw"
+
+matrix = [
+    ["", "", ""], 
+    ["", "", ""], 
+    ["", "", ""]
+    ]
+
+print(tic_tac_toe(matrix))
