@@ -20,3 +20,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-16** — [Integer Hypotenuse](./2026-01-16_integer_hypotenuse.py)
     - It took me while that what I only need to know is if it is `perfect square` or not, so I should just return in `True` or `False` through some kind of condition. What really took me long is this part `c_root = int(c ** 0.5)`, I have to put `int()` in it for it to work properly with other test cases.
+
+- **2026-01-18** — [Free Shipping](./2026-01-18_free_shipping.py)
+    - It is pretty simple, I just review `dict` earlier so I have done it easily.
