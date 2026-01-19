@@ -23,3 +23,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-18** — [Free Shipping](./2026-01-18_free_shipping.py)
     - It is pretty simple, I just review `dict` earlier so I have done it easily.
+
+- **2026-01-19** — [Energy Consumption](./2026-01-19_energy_consumption.py)
+    - Another day that took me while, I only need to times `calories_burned` with `calorie` and `watt_hours_used` with `watt_hour` and call it a day.
