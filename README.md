@@ -26,3 +26,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-19** — [Energy Consumption](./2026-01-19_energy_consumption.py)
     - Another day that took me while, I only need to times `calories_burned` with `calorie` and `watt_hours_used` with `watt_hour` and call it a day.
+
+- **2026-01-20** — [Consonant Case](./2026-01-20_consonant_case.py)
+    - The `elif case in ("aeiou" or "AEIOU")` stuck me up for too long, because the code reads the `"aeiou"` part only and call it a day, I changed it to `"aeiouAEIOU"` and I call it a night (night because it took me so long, it is so simple, very simple).
