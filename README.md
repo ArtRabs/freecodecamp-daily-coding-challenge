@@ -6,6 +6,9 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 ## Challenges
 
+- **2026-01-06** — [vOwElcAsE](./2026-01-06_vowelcase.py)
+    - Quite the same as `Consonant Case`, but I just made the `aeiouAEIOU` as a variable `vowel`.
+
 - **2026-01-10** — [Tic Tac Toe](./2026-01-10_tic-tac-toe.py)
     - It looks pretty inefficient, I mean I think there is a better way to do this. I suppose if statement conditions is the most easy to do.
 
