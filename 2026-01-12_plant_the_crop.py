@@ -36,5 +36,6 @@ def get_number_of_plants(field_size, unit, crop):
 
     return int(crops)
 
-print(get_number_of_plants(1, "acres", "corn"))
-print(get_number_of_plants(2, "hectares", "lettuce"))
+if __name__ == "__main__":
+    print(get_number_of_plants(1, "acres", "corn"))
+    print(get_number_of_plants(2, "hectares", "lettuce"))

@@ -7,7 +7,8 @@ def array_swap(arr):
 
     return swap
 
-print(array_swap([1, 2]))
-print(array_swap([True, False]))
-print(array_swap(["one", "two"]))
-print(array_swap([3, "yon"]))
+if __name__ == "__main__":
+    print(array_swap([1, 2]))
+    print(array_swap([True, False]))
+    print(array_swap(["one", "two"]))
+    print(array_swap([3, "yon"]))

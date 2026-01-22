@@ -20,6 +20,7 @@ def compare_energy(calories_burned, watt_hours_used):
 
         return "Equal"
 
-print(compare_energy(250, 50))
-print(compare_energy(100, 200))
-print(compare_energy(450, 523))
+if __name__ == "__main__":
+    print(compare_energy(250, 50))
+    print(compare_energy(100, 200))
+    print(compare_energy(450, 523))

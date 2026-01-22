@@ -18,7 +18,8 @@ def to_consonant_case(s):
 
     return word
 
-print(to_consonant_case("helloworld"))
-print(to_consonant_case("HELLOWORLD"))
-print(to_consonant_case("_hElLO-WOrlD-"))
-print(to_consonant_case("_~-generic_~-variable_~-name_~-here-~_"))
+if __name__ == "__main__":
+    print(to_consonant_case("helloworld"))
+    print(to_consonant_case("HELLOWORLD"))
+    print(to_consonant_case("_hElLO-WOrlD-"))
+    print(to_consonant_case("_~-generic_~-variable_~-name_~-here-~_"))

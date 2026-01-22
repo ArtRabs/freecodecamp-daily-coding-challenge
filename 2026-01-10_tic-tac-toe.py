@@ -46,10 +46,11 @@ def tic_tac_toe(board):
 
     return "Draw"
 
-matrix = [
-    ["", "", ""], 
-    ["", "", ""], 
-    ["", "", ""]
-    ]
+if __name__ == "__main__":
+    matrix = [
+        ["", "", ""], 
+        ["", "", ""], 
+        ["", "", ""]
+        ]
 
-print(tic_tac_toe(matrix))
+    print(tic_tac_toe(matrix))

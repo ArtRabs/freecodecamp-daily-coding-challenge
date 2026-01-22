@@ -25,3 +25,6 @@ def golf_score(par, strokes):
         return "Double bogey"   
 
     return par
+
+if __name__ == "__main__":
+    pass

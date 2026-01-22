@@ -19,4 +19,5 @@ def vowel_case(s):
 
     return word
 
-print(vowel_case("HELLO, world!"))
+if __name__ == "__main__":
+    print(vowel_case("HELLO, world!"))

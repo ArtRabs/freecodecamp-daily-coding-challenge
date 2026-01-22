@@ -10,7 +10,8 @@ def is_integer_hypotenuse(a, b):
 
     return is_perfect_square
 
-print(is_integer_hypotenuse(3,4))
-print(is_integer_hypotenuse(2,3))
-print(is_integer_hypotenuse(250,333))
+if __name__ == "__main__":
+    print(is_integer_hypotenuse(3,4))
+    print(is_integer_hypotenuse(2,3))
+    print(is_integer_hypotenuse(250,333))
 

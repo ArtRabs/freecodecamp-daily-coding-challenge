@@ -25,6 +25,7 @@ def gets_free_shipping(cart, minimum):
 
     return True
 
-print(gets_free_shipping(["hat", "socks"], 50))
-print(gets_free_shipping(["shirt", "shirt", "jeans", "socks"], 100))
-print(gets_free_shipping(["hat", "socks", "hat", "jeans", "shoes", "hat"], 200))
+if __name__ == "__main__":
+    print(gets_free_shipping(["hat", "socks"], 50))
+    print(gets_free_shipping(["shirt", "shirt", "jeans", "socks"], 100))
+    print(gets_free_shipping(["hat", "socks", "hat", "jeans", "shoes", "hat"], 200))
