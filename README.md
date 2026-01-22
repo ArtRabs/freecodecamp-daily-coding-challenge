@@ -32,3 +32,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-20** — [Consonant Case](./2026-01-20_consonant_case.py)
     - The `elif case in ("aeiou" or "AEIOU")` stuck me up for too long, because the code reads the `"aeiou"` part only and call it a day, I changed it to `"aeiouAEIOU"` and I call it a night (night because it took me so long, it is so simple, very simple).
+
+- **2026-01-21** — [Markdown Inline Code](./2026-01-21_markdown_inline_code_parser.py)
+    - I use my smartness, my intelligence and my knowledge to make the most *inefficient* way of `parsing` this thing out.
