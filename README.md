@@ -35,3 +35,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-21** — [Markdown Inline Code](./2026-01-21_markdown_inline_code_parser.py)
     - I use my smartness, my intelligence and my knowledge to make the most *inefficient* way of `parsing` this thing out.
+
+- **2026-01-22** — [Class Average](./2026-01-22_class_average.py)
+    - Simply `if` `else` statements, but took me a little bit of time to get the `print(get_average_grade([63, 69, 65, 66, 71, 64, 65]))` for it does not return `D` but the average score. Just need to do `average_score = int(average_score)` and done.
