@@ -1,34 +1,23 @@
 def parse_inline_code(markdown):
 
-    index1 = markdown.index("`")
-    index2 = markdown.index("`", markdown.index("`") + 1)
-
-    word = markdown[index1 : index2]
-    word1 = markdown[index1 : index2 + 1]
-
-    parse1 = word.replace("`","<code>")
-    parse1 += "</code>"
-
-    parsed = markdown.replace(word1, parse1)
-    
     count = markdown.count("`")
+    
+    while count > 0:
 
-    while count > 2:
+        index1 = markdown.index("`")
+        index2 = markdown.index("`", markdown.index("`") + 1)
 
-        index1 = parsed.index("`")
-        index2 = parsed.index("`", parsed.index("`") + 1)
+        word1 = markdown[index1 : index2]
+        word2 = markdown[index1 : index2 + 1]
 
-        word = parsed[index1 : index2]
-        word1 = parsed[index1 : index2 + 1]
+        parse = word1.replace("`","<code>")
+        parse += "</code>"
 
-        parse1 = word.replace("`","<code>")
-        parse1 += "</code>"
-
-        parsed = parsed.replace(word1, parse1)
+        markdown = markdown.replace(word2, parse)
 
         count = count - 2
 
-    return parsed
+    return markdown
 
 if __name__ == "__main__":
     
