@@ -38,3 +38,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-22** — [Class Average](./2026-01-22_class_average.py)
     - Simply `if` `else` statements, but took me a little bit of time to get the `print(get_average_grade([63, 69, 65, 66, 71, 64, 65]))` for it does not return `D` but the average score. Just need to do `average_score = int(average_score)` and done.
+
+- **2026-01-24** — [Bingo! Letter](./2026-01-24_bingo_letter.py)
+    - Same as `Class Average`, but shorter and better in eyes.
