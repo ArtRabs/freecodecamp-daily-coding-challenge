@@ -41,3 +41,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-24** — [Bingo! Letter](./2026-01-24_bingo_letter.py)
     - Same as `Class Average`, but shorter and better in eyes.
+
+- **2026-01-25** — [Scaled Image](./2026-01-25_scaled-image.py)
+    - I should have use `map`, but as the sayings says, "if it ain't broke, don't fix it".
