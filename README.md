@@ -6,6 +6,9 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 ## Challenges
 
+- **2025-12-01** — [Miles to Kilometers](./2025-12-01_miles_to_kilometers.py)
+    - Simple conversion, just multiply miles with `1.60934`.
+
 - **2026-01-06** — [vOwElcAsE](./2026-01-06_vowelcase.py)
     - Quite the same as `Consonant Case`, but I just made the `aeiouAEIOU` as a variable `vowel`.
 
