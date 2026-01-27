@@ -43,4 +43,7 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
     - Same as `Class Average`, but shorter and better in eyes.
 
 - **2026-01-25** — [Scaled Image](./2026-01-25_scaled-image.py)
-    - I should have use `map`, but as the sayings says, "if it ain't broke, don't fix it".
+    - I should have use `map()`, but as the sayings says, "if it ain't broke, don't fix it".
+
+- **2026-01-26** — [Fuzzbizz Mini](./2026-01-26_fuzzbizz-mini.py)
+    - Aboslutely easy.
