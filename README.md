@@ -56,3 +56,6 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-28** — [Flatten the Array](./2026-01-28_flatten_the_array.py)
     - Ok sorry for saying easy yesterday or perhaps the other day (don't refer from the date in this README, refer to the commit message regarding to the date). This time I need help from my friend `GitHub Copilot`. I dislike recursion and guess what? The answer is recursion to these jagged arrays, oh also `extend()` method, oh my how did I miss that simple method. Also I left out the comment for me to remember I screw up this one. I tried doing error handling `try` and `except` at first, perhaps it will work but the most inefficient way possible.
+
+- **2026-01-29** — [Letters-Numbers](./2026-01-25_scaled-image.py)
+    - I finally used what I learned, error handling. I used `try`, `except` and `finally`. I did not put it in the `elif character in numbers:` part though, but if a user put a number as the first index of a string, the function will definitely get cooked. I am pretty sure the error will be `IndexError`.
