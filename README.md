@@ -1,6 +1,6 @@
 # freeCodeCamp Daily Coding Challenges
 
-This repo tracks my daily solutions to freeCodeCamp challenges.
+This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 #### Programming Language: Python
 
@@ -14,6 +14,9 @@ This repo tracks my daily solutions to freeCodeCamp challenges.
 
 - **2026-01-06** — [vOwElcAsE](./2026-01-06_vowelcase.py)
     - Quite the same as `Consonant Case`, but I just made the `aeiouAEIOU` as a variable `vowel`.
+
+- **2026-01-08** — [Sorted Array?](./2026-01-08_sorted_array.py)
+    - Ez.
 
 - **2026-01-10** — [Tic Tac Toe](./2026-01-10_tic-tac-toe.py)
     - It looks pretty inefficient, I mean I think there is a better way to do this. I suppose if statement conditions is the most easy to do.
