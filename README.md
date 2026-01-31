@@ -12,6 +12,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2025-12-02** — [Camel to Snake](./2025-12-02_camel_to_snake.py)
     - Also similar to `vOwElcAsE` and `Consonant Case` with a little bit of parsing... Is this even considered a parsing? Actually, I am about to study it.
 
+- **2025-12-23** — [Re:Fwd:Fw:Count](./2025-12-23_re_fwd_fw_count.py)
+    - Man, if I did not know what is `regular expression` or `import re`, I will use a loop that check if the current character is `:` and then check the previous characters if it is `fwd` or `fw` or `re` by using index.
+
 - **2026-01-06** — [vOwElcAsE](./2026-01-06_vowelcase.py)
     - Quite the same as `Consonant Case`, but I just made the `aeiouAEIOU` as a variable `vowel`.
 
