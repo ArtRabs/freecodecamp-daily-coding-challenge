@@ -68,3 +68,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-01-29** — [Letters-Numbers](./2026-01-25_scaled-image.py)
     - I finally used what I learned, error handling. I used `try`, `except` and `finally`. I did not put it in the `elif character in numbers:` part though, but if a user put a number as the first index of a string, the function will definitely get cooked. I am pretty sure the error will be `IndexError`.
+
+- **2026-02-02** — [Groundhog Day](./2026-02-02_groundhog_day.py)
+    - Bro, I thought the output should be `"Looks like we'll have six more weeks of winter."` instead of `Looks like we'll have six more weeks of winter.`, so I just erased the quotes and back slashes.
