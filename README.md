@@ -71,3 +71,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-02-02** — [Groundhog Day](./2026-02-02_groundhog_day.py)
     - Bro, I thought the output should be `"Looks like we'll have six more weeks of winter."` instead of `Looks like we'll have six more weeks of winter.`, so I just erased the quotes and back slashes.
+
+- **2026-02-03** — [String Mirror](./2026-02-03_string_mirror.py)
+    - Make an empty string, add the original string in empty string, reverse the original string then add it to the not empty string. Done.
