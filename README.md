@@ -74,3 +74,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-02-03** — [String Mirror](./2026-02-03_string_mirror.py)
     - Make an empty string, add the original string in empty string, reverse the original string then add it to the not empty string. Done.
+
+- **2026-02-04** — [Truncate the Text](./2026-02-04_truncate_the_text.py)
+    - Pretty simple stuffs this month, slice the string then add `...` or else return the original string.
