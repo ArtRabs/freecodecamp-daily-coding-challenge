@@ -77,3 +77,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-02-04** — [Truncate the Text](./2026-02-04_truncate_the_text.py)
     - Pretty simple stuffs this month, slice the string then add `...` or else return the original string.
+
+- **2026-02-05** — [Pocket Change](./2026-02-05_pocket_change.py)
+    - It is my first time using `map()` and `lambda` function, did not need looping with it, nice.
