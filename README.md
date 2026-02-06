@@ -80,3 +80,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-02-05** — [Pocket Change](./2026-02-05_pocket_change.py)
     - It is my first time using `map()` and `lambda` function, did not need looping with it, nice.
+
+- **2026-02-06** — [2026 Winter Games Day 1: Opening Day](./2026-02-06_2026_winter_games_day_1_opening_day.py)
+    - I just asked an AI to make a list of dict, yup, I aint going to type all if else statements in that one.
