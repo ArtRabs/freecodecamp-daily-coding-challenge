@@ -90,3 +90,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-02-08** — [2026 Winter Games Day 3: Biathlon](./2026-02-08_2026_winter_games_day_3_biathlon.py)
     - The only hard part here is naming the file.
 
+- **2026-02-09** — [2026 Winter Games Day 4: Ski Jumping](./2026-02-09_2026_winter_games_day_4_ski_jumping.py)
+    - The scoring rules were not complicated as it seems, it is just addition... What about the `append()`, `sort()` and `index()` in the file? Nah, that is not the complicated part, it is about figuring out how the upcoming sports (to code) rules are.
+
