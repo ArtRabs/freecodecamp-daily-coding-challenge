@@ -87,5 +87,6 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-02-07** — [2026 Winter Games Day 2: Snowboarding](./2026-02-07_2026_winter_games_day_2_snowboarding.py)
     - It is like the golf thing `Par for the Hole` I did, I have no idea what is the scoring or law or whatever in the snowboard (Im into tropical stuffs), but here we go again. I just got stuck a little bit in negative rotations and it is my first time seeing `abs()` function. I think it is `absolute`? Well I have seen absolute before but not as a function.
 
-- **2026-02-08** — [2026 Winter Games Day 3: Biathlon](./2026-02-08_2026_winter_games_day_3_biathlon.py.py)
+- **2026-02-08** — [2026 Winter Games Day 3: Biathlon](./2026-02-08_2026_winter_games_day_3_biathlon.py)
     - The only hard part here is naming the file.
+
