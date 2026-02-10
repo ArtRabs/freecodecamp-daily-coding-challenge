@@ -8,6 +8,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2025-11-18** — [100 Characters](./2025-11-18_100_characters.py)
     - Needed help a little bit, also it is been while since I use `while` loop, I used index with `modulo` or `%` to loop this one to loop the same string over and over again.
+
+- **2025-11-20** — [Longest Word](./2025-11-20_longest_word.py)
+    - Seriously, I have no idea how this thing really works...
     
 - **2025-12-01** — [Miles to Kilometers](./2025-12-01_miles_to_kilometers.py)
     - Simple conversion, just multiply miles with `1.60934`.
