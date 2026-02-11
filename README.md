@@ -6,6 +6,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 ## Challenges
 
+- **2025-08-25** — [camelCase](./2025-08-25_camelcase.py)
+    - I thought of this while doing shower thoughts, or perhaps you can call it toilet thoughts because I think of the possible ways of solutions to solve this problem in one sit. I thought of using alphabet variable like `alphabet = abc...xyzABC...XYZ` and removing the last index of the string if it is not alphabet then capitalize, but nah, I did whatever is typed there right now.
+
 - **2025-11-18** — [100 Characters](./2025-11-18_100_characters.py)
     - Needed help a little bit, also it is been while since I use `while` loop, I used index with `modulo` or `%` to loop this one to loop the same string over and over again.
 
