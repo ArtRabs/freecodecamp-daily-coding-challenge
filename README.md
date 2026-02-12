@@ -99,3 +99,5 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-02-09** — [2026 Winter Games Day 4: Ski Jumping](./2026-02-09_2026_winter_games_day_4_ski_jumping.py)
     - The scoring rules were not complicated as it seems, it is just addition... What about the `append()`, `sort()` and `index()` in the file? Nah, that is not the complicated part, it is about figuring out how the upcoming sports (to code) rules are.
 
+- **2026-02-11** — [2026 Winter Games Day 6: Figure Skating](./2026-02-11_2026_winter_games_day_6_figure_skating.py)
+    - Ah heck nah, what even is this? I can not seem to get whatever is this rounding off system do man. There is that `0.5` something and the rest are whole number, even though the other numbers can still be round off except that one particular question... Yeah why did I not think of it? I should press the help button in the forum or what is it called.
