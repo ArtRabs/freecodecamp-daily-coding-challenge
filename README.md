@@ -107,3 +107,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-02-14** — [2026 Winter Games Day 9: Skeleton](./2026-02-14_2026_winter_games_day_9_skeleton.py)
     - Who would have guess that what I learned in `camelCase` 2 days ago were actually pretty useful? Me, I guess it. The useful part is the are these `is_l`, `is_r` and `is_s`, `is_s` is useless and `points += 0` is also useless, but it looks better to understand. Also I have no idea what sports is this, if the code works, you guess it again, it works.
+
+- **2026-02-15** — [2026 Winter Games Day 10: Alpine Skiing](./2026-02-15_2026_winter_games_day_10_alpine_skiing.py)
+    - At a glance, I have no idea what is the formula, so I asked an AI. Of course for I do not know the formula so I will ask for the formula, not the entire program. The answer is pretty simple, `steep = drop / distance * hill_type`, then the rest is easy. I am bad at division.
+
+<!-- - **** — []() -->
