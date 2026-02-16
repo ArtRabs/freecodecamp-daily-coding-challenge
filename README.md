@@ -24,6 +24,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2025-12-23** — [Re:Fwd:Fw:Count](./2025-12-23_re_fwd_fw_count.py)
     - Man, if I did not know what is `regular expression` or `import re`, I will use a loop that check if the current character is `:` and then check the previous characters if it is `fwd` or `fw` or `re` by using index.
 
+- **2025-12-30** — [Sum the String](./2025-12-30_sum_the_string.py)
+    - If you wanna know how much I mess up, you should see the comments in `.py` file. I delete the entire thing (or I commented the entire thing) and attain enlightenment.
+
 - **2026-01-06** — [vOwElcAsE](./2026-01-06_vowelcase.py)
     - Quite the same as `Consonant Case`, but I just made the `aeiouAEIOU` as a variable `vowel`.
 
