@@ -27,11 +27,25 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2025-12-30** — [Sum the String](./2025-12-30_sum_the_string.py)
     - If you wanna know how much I mess up, you should see the comments in `.py` file. I delete the entire thing (or I commented the entire thing) and attain enlightenment.
 
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
 - **2026-01-06** — [vOwElcAsE](./2026-01-06_vowelcase.py)
     - Quite the same as `Consonant Case`, but I just made the `aeiouAEIOU` as a variable `vowel`.
 
+- **** — []()
+
 - **2026-01-08** — [Sorted Array?](./2026-01-08_sorted_array.py)
     - Ez.
+
+- **** — []()
 
 - **2026-01-10** — [Tic Tac Toe](./2026-01-10_tic-tac-toe.py)
     - It looks pretty inefficient, I mean I think there is a better way to do this. I suppose if statement conditions is the most easy to do.
@@ -42,11 +56,17 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-01-12** - [Plant the Crop](./2026-01-12_plant_the_crop.py)
     - I am thinking of using `while` or `for` in getting the... the that... I do not know. The plants things, yes. Well I will just give an example. `corn = 1` square meter, `wheat = 0.1` square meters, `soybeans = 0.5` square meter, `tomatoes = 0.25` square meters, `lettuce = 0.2` square meters. corn is already 1 so it is ok, but if soybeans is 0.5, in the math it should by times 2, if tomatoes then times 4, if wheat then times 10. With that, I think we get the point and know what is lettuce output. What I want to do is to automatically convert the square meter/s of crops to the times of it. `soybeans = 0.5, then soybeans = 2` or `if tomatoes = 0.25, then tomatoes = 4` like that, but I did not do it then just raw dog it once more.
 
+- **** — []()
+
+- **** — []()
+
 - **2026-01-15** — [Array Swap](./2026-01-15_array_swap.py)
     - It seems I just raw dog this one, but hey, it works.
 
 - **2026-01-16** — [Integer Hypotenuse](./2026-01-16_integer_hypotenuse.py)
     - It took me while that what I only need to know is if it is `perfect square` or not, so I should just return in `True` or `False` through some kind of condition. What really took me long is this part `c_root = int(c ** 0.5)`, I have to put `int()` in it for it to work properly with other test cases.
+
+- **** — []()
 
 - **2026-01-18** — [Free Shipping](./2026-01-18_free_shipping.py)
     - It is pretty simple, I just review `dict` earlier so I have done it easily.
@@ -72,11 +92,19 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-01-26** — [Fuzzbizz Mini](./2026-01-26_fuzzbizz-mini.py)
     - Aboslutely easy.
 
+- **** — []()
+
 - **2026-01-28** — [Flatten the Array](./2026-01-28_flatten_the_array.py)
     - Ok sorry for saying easy yesterday or perhaps the other day (don't refer from the date in this README, refer to the commit message regarding to the date). This time I need help from my friend `GitHub Copilot`. I dislike recursion and guess what? The answer is recursion to these jagged arrays, oh also `extend()` method, oh my how did I miss that simple method. Also I left out the comment for me to remember I screw up this one. I tried doing error handling `try` and `except` at first, perhaps it will work but the most inefficient way possible.
 
 - **2026-01-29** — [Letters-Numbers](./2026-01-25_scaled-image.py)
     - I finally used what I learned, error handling. I used `try`, `except` and `finally`. I did not put it in the `elif character in numbers:` part though, but if a user put a number as the first index of a string, the function will definitely get cooked. I am pretty sure the error will be `IndexError`.
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
 
 - **2026-02-02** — [Groundhog Day](./2026-02-02_groundhog_day.py)
     - Bro, I thought the output should be `"Looks like we'll have six more weeks of winter."` instead of `Looks like we'll have six more weeks of winter.`, so I just erased the quotes and back slashes.
@@ -102,8 +130,12 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-02-09** — [2026 Winter Games Day 4: Ski Jumping](./2026-02-09_2026_winter_games_day_4_ski_jumping.py)
     - The scoring rules were not complicated as it seems, it is just addition... What about the `append()`, `sort()` and `index()` in the file? Nah, that is not the complicated part, it is about figuring out how the upcoming sports (to code) rules are.
 
+- **** — []()
+
 - **2026-02-11** — [2026 Winter Games Day 6: Figure Skating](./2026-02-11_2026_winter_games_day_6_figure_skating.py)
     - Ah heck nah, what even is this? I can not seem to get whatever is this rounding off system do man. There is that `0.5` something and the rest are whole number, even though the other numbers can still be round off except that one particular question... Yeah why did I not think of it? I should press the help button in the forum or what is it called.
+
+- **** — []()
 
 - **2026-02-13** — [2026 Winter Games Day 8: Luge](./2026-02-13_2026_winter_games_day_8_luge.py)
     - Easier than before, all logics to do are very crystal clear.
@@ -113,5 +145,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **2026-02-15** — [2026 Winter Games Day 10: Alpine Skiing](./2026-02-15_2026_winter_games_day_10_alpine_skiing.py)
     - At a glance, I have no idea what is the formula, so I asked an AI. Of course for I do not know the formula so I will ask for the formula, not the entire program. The answer is pretty simple, `steep = drop / distance * hill_type`, then the rest is easy. I am bad at division.
+
+- **** — []()
+
+- **** — []()
 
 <!-- - **** — []() -->
