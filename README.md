@@ -146,7 +146,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-02-15** — [2026 Winter Games Day 10: Alpine Skiing](./2026-02-15_2026_winter_games_day_10_alpine_skiing.py)
     - At a glance, I have no idea what is the formula, so I asked an AI. Of course for I do not know the formula so I will ask for the formula, not the entire program. The answer is pretty simple, `steep = drop / distance * hill_type`, then the rest is easy. I am bad at division.
 
-- **** — []()
+- **2026-03-01** — [Flattened](./2026-03-01_flattened.py)
+    - I am back from LeetCode, now everything else here is absolutely easy. This is just a way to check if the array inside does not have another array.
 
 - **** — []()
 
