@@ -146,8 +146,37 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-02-15** — [2026 Winter Games Day 10: Alpine Skiing](./2026-02-15_2026_winter_games_day_10_alpine_skiing.py)
     - At a glance, I have no idea what is the formula, so I asked an AI. Of course for I do not know the formula so I will ask for the formula, not the entire program. The answer is pretty simple, `steep = drop / distance * hill_type`, then the rest is easy. I am bad at division.
 
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
 - **2026-03-01** — [Flattened](./2026-03-01_flattened.py)
     - I am back from LeetCode, now everything else here is absolutely easy. This is just a way to check if the array inside does not have another array.
+
+- **2026-03-02** — [Sum the Letters](./2026-03-02_sum_the_letters.py)
+    - This is the first time I have learned `ord()`, pretty cool and efficient. I almost make an entire list of alphabets both upper and lower with a value like in a list, perhaps a inside a dict, `{"A" = 1 , "a" = 1, "B" = 2, "b" = 2}` and so on. With `ord()` I can get the value of each letter, although `("A" = 65) == ord("A")` so meaning "B" is 66, "C" is ~~67~~, "D" is 68 and so on. If I got the letter "A" in `ord()`, the value output is 65, all I need to do is minus it with `ord("A")`, which is 65 + 65 = 0, and add 1 to get the value of "A" which is now 1.
 
 - **** — []()
 
