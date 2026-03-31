@@ -178,6 +178,7 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-03-02** — [Sum the Letters](./2026-03-02_sum_the_letters.py)
     - This is the first time I have learned `ord()`, pretty cool and efficient. I almost make an entire list of alphabets both upper and lower with a value like in a list, perhaps a inside a dict, `{"A" = 1 , "a" = 1, "B" = 2, "b" = 2}` and so on. With `ord()` I can get the value of each letter, although `("A" = 65) == ord("A")` so meaning "B" is 66, "C" is ~~67~~, "D" is 68 and so on. If I got the letter "A" in `ord()`, the value output is 65, all I need to do is minus it with `ord("A")`, which is 65 + 65 = 0, and add 1 to get the value of "A" which is now 1.
 
-- **** — []()
+- **2026-03-03** — [Perfect Cube Count](./2026-03-03_perfect_cube_count.py)
+    - Oh this is pretty hard, but do able. I just brute force the negative part and it works. I have the better efficient part at the bottom of the program, but I am not using that one.
 
 <!-- - **** — []() -->
