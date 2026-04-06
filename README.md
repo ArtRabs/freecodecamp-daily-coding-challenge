@@ -181,4 +181,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-03-03** — [Perfect Cube Count](./2026-03-03_perfect_cube_count.py)
     - Oh this is pretty hard, but do able. I just brute force the negative part and it works. I have the better efficient part at the bottom of the program, but I am not using that one.
 
+- **2026-03-04** — [Playing Card Values](./2026-03-04_playing_card_values.py)
+    - There are many ways to do this, but I suppose I choose this way. I do not care about the `"Suits"` in this case, those are the Spades, Clubs, Diamonds and Hearts. I only read the first part of the card by using `range` like `variable[0]` which only read the first part of the `variable`. In this code it is `card[0]`, if `card = "9S"` which is 9 of spades, it will only read the 9 part then call it a day. Oh also I try adding comment in my codes from now on, it also checks if I actually understand what I am typing.
+
+- **** — []()
+
 <!-- - **** — []() -->
