@@ -184,6 +184,9 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-03-04** — [Playing Card Values](./2026-03-04_playing_card_values.py)
     - There are many ways to do this, but I suppose I choose this way. I do not care about the `"Suits"` in this case, those are the Spades, Clubs, Diamonds and Hearts. I only read the first part of the card by using `range` like `variable[0]` which only read the first part of the `variable`. In this code it is `card[0]`, if `card = "9S"` which is 9 of spades, it will only read the 9 part then call it a day. Oh also I try adding comment in my codes from now on, it also checks if I actually understand what I am typing.
 
-- **** — []()
+- **2026-04-07** — [Palindrome Characters](./2026-04-07_palindrome_characters.py)
+    - Me and my friend teamwork this thing out, I also use it to teach him a thing or two. Pretty simple too, i just separate the even and odd string to do their work.
+
+
 
 <!-- - **** — []() -->
