@@ -189,7 +189,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-03-07** — [Element Size](./2026-03-07_element_size.py)
+    - Basic way of parsing something. I did more in parsing a title in LeetCode then generate a header comment then make a title for python file then generate link for both file and problem link, which I said nothing related to this challenge except the `parsing` part.
 
 - **** — []()
 
