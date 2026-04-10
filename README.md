@@ -194,7 +194,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-03-08** — [Array Sum](./2026-03-09_array_sum.py)
+    - Sweat, blood, and tears of all it took for me to finally finish this program...
 
 - **** — []()
 
