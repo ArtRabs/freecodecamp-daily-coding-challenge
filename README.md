@@ -240,6 +240,14 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
+- **2026-04-04** — [Equation Validation](./2026-04-04_equation_validation.py)
+    - I just found the `eval()` in some YouTube shorts and I remember this problem. Made my work absolutely easy. 
+    
+    Do **NOT** use `eval()` together with `input()`.
+
+- **** — []()
+
+- **** — []()
 
 - **2026-04-07** — [Palindrome Characters](./2026-04-07_palindrome_characters.py)
     - Me and my friend teamwork this thing out, I also use it to teach him a thing or two. Pretty simple too, i just separate the even and odd string to do their work.
