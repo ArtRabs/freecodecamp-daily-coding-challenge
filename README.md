@@ -252,6 +252,18 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-07** — [Palindrome Characters](./2026-04-07_palindrome_characters.py)
     - Me and my friend teamwork this thing out, I also use it to teach him a thing or two. Pretty simple too, i just separate the even and odd string to do their work.
 
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **2026-04-13** — [Name Initials](./2026-04-13_name_initials.py)
+    - OK, make the string to array then loop it and do the thing.
 
 
 <!-- - **** — []() -->
