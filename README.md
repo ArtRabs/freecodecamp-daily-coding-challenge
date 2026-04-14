@@ -214,7 +214,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-03-16** — [Evenly Divisible](./2026-03-16_evenly_divisible.py)
+    - Ah yes, the `/` and `//`. The best way to know what is that is to try it (I can not explain it).
 
 - **** — []()
 
