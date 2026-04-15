@@ -266,5 +266,10 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-13** — [Name Initials](./2026-04-13_name_initials.py)
     - OK, make the string to array then loop it and do the thing.
 
+- **** — []()
+
+- **2026-04-15** — [Last Letter](./2026-04-15_last_letter.py)
+    - I thought this will be harder, it is like that `ord()` from before, but I did not use the function itself. All I need is to get the highest value letter with how the `ord()` also works. The tricky case is the upper and lower letters have different values. So just look at the code and see how I dealt with it.
+
 
 <!-- - **** — []() -->
