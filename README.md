@@ -235,7 +235,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-03-26** — [No Consecutive Repeats](./2026-03-26_no_consecutive_repeats.py)
+    - My beloved `collections` and `re`, life is easy because they exists in this kinds of problems.
 
 - **** — []()
 
