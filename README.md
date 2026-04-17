@@ -166,7 +166,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-02-26** — [Letter and Number Count](./2026-02-26_letter_and_number_count.py)
+    - Easy but messy code, specially the singular and plural part.
 
 - **** — []()
 
