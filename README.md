@@ -206,7 +206,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-03-09** — [Word Length Converter](./2026-03-11_word_length_converter.py)
     - I can actually use `map()` like that? If I did not know better, I could just loop it twice effectively making it `O(n^2)` or perhaps I will convert the `int` into `str` every time I add it into a single string variable in single loop. Well cool, there are actually many way of doing this.
 
-- **** — []()
+- **2026-03-10** — [Array Insertion](./2026-03-10_array_insertion.py)
+    - Ok I learned another function called `insert()`. Look at the code and it does exactly what it does.
 
 - **** — []()
 
