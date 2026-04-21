@@ -278,5 +278,16 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-15** — [Last Letter](./2026-04-15_last_letter.py)
     - I thought this will be harder, it is like that `ord()` from before, but I did not use the function itself. All I need is to get the highest value letter with how the `ord()` also works. The tricky case is the upper and lower letters have different values. So just look at the code and see how I dealt with it.
 
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **2026-04-20** — [Acronym Finder](./2026-04-20_acronym_finder.py)
+    - I am pretty what I did is wrong, but the result is right, so I guess it is correct? Oh well, but I think what this one wanted me to do is something like using `join()` and getting the `index[0]` of every word then check is with `==` in the premade array of organizations.
+
 
 <!-- - **** — []() -->
