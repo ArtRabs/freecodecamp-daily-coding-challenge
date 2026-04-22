@@ -289,5 +289,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-20** — [Acronym Finder](./2026-04-20_acronym_finder.py)
     - I am pretty what I did is wrong, but the result is right, so I guess it is correct? Oh well, but I think what this one wanted me to do is something like using `join()` and getting the `index[0]` of every word then check is with `==` in the premade array of organizations.
 
+- **2026-04-21** — [Odd Words](./2026-04-21_odd_words.py)
+    - Fine, just loop it and check if the length of the word is odd or not.
+
 
 <!-- - **** — []() -->
