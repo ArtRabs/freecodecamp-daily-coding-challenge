@@ -225,7 +225,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-03-18** — [Largest Number](./2026-03-18_largest_number.py)
+    - I just screw up the last part of the array, everything else is cool. It is a `regular expression` at home.
 
 - **** — []()
 
