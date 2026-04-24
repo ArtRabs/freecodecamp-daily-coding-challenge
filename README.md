@@ -285,7 +285,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()
+- **2026-04-19** — [Unique Stair Climber](./2026-04-19_unique_stair_climber.py)
+    - I thought I will just use `recursion` and call it a day, but no, the test case literally intended to input a very big output. If that works in the first place, well, it would be ~~aura monst~~ easy. This time I use what I just recently learned `iterative` method, I guess. As you can see in the code the `a, b = b , a + b` is pretty cool, it eliminate the need for a `temp` variable in just one line, ah yes did I say I am working with `Fibonacci Sequence`? Also the `_` in `for _ in range(steps):` is cool, first time I also used it, it does nothing in this case and the loop will just work many times as the `steps`. It is like I just use `while` loop.
 
 - **2026-04-20** — [Acronym Finder](./2026-04-20_acronym_finder.py)
     - I am pretty what I did is wrong, but the result is right, so I guess it is correct? Oh well, but I think what this one wanted me to do is something like using `join()` and getting the `index[0]` of every word then check is with `==` in the premade array of organizations.
