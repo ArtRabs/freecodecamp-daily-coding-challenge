@@ -59,7 +59,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-01-12** - [Plant the Crop](./2026-01-12_plant_the_crop.py)
     - I am thinking of using `while` or `for` in getting the... the that... I do not know. The plants things, yes. Well I will just give an example. `corn = 1` square meter, `wheat = 0.1` square meters, `soybeans = 0.5` square meter, `tomatoes = 0.25` square meters, `lettuce = 0.2` square meters. corn is already 1 so it is ok, but if soybeans is 0.5, in the math it should by times 2, if tomatoes then times 4, if wheat then times 10. With that, I think we get the point and know what is lettuce output. What I want to do is to automatically convert the square meter/s of crops to the times of it. `soybeans = 0.5, then soybeans = 2` or `if tomatoes = 0.25, then tomatoes = 4` like that, but I did not do it then just raw dog it once more.
 
-- **** — []()
+- **2026-01-13** — [Odd or Even?](./2026-01-13_odd_or_even.py)
+    - I did this one for the love the game by checking the `[-1]` of the number then if it is `0, 2, 4, 6 , 8` it is even, else odd, instead of the usual `n % 2 == 0` modulus.
 
 - **** — []()
 
