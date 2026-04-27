@@ -298,5 +298,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-21** — [Odd Words](./2026-04-21_odd_words.py)
     - Fine, just loop it and check if the length of the word is odd or not.
 
+- **2026-04-27** — [Word Score](./2026-04-27_word_score.py)
+    - Just like the `Sum the Letters`.
+
 
 <!-- - **** — []() -->
