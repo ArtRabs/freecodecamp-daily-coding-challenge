@@ -302,7 +302,10 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
     - Just like the `Sum the Letters`.
 
 - **2026-04-28** — [Number Words](./2026-04-28_number_words.py)
-    - Cool, instead I brute force it with `dict` from 0 - 99, I did whatever is this in the code. Used my brain smoothly once in a while without getting hard.
+    - Cool, instead I brute force it with `dict` from 0 - 99, I did whatever is this in the code. Used my brain smoothly once in a while without getting hard. (Just re read whatever I wrote here, pretty sus)
+
+- **2026-04-29** — [URL Query Parser](./2026-04-29_url_query_parser.py)
+    - Today I learned a new import called `urllib.parse` and guess what? I did not use it.
 
 
 <!-- - **** — []() -->
