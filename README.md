@@ -307,5 +307,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-29** — [URL Query Parser](./2026-04-29_url_query_parser.py)
     - Today I learned a new import called `urllib.parse` and guess what? I did not use it.
 
+- **2026-04-30** — [Binary Crossword](./2026-04-30_binary_crossword.py)
+    - I brute force this one by checking all possible moves in `rows` and `columns` in the `matrix`. Also the `"0"` in the testcase...
+
 
 <!-- - **** — []() -->
