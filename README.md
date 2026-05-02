@@ -284,7 +284,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-15** — [Sorted Array Swap](./2026-04-15_sorted_array_swap.py)
     - It is easier than I thought, I really think my bestfriend `IndexError` will be appearing, but I guess he will appear if the swap is `after` not `before`.
 
-- **** — []()
+- **2026-04-16** — [String Math](./2026-04-16_string_math.py)
+    - Finally learning how to use `regular expression` or `import re` in this case, also used `eval()` to solve the thing.
 
 - **** — []()
 
