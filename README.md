@@ -312,5 +312,12 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-04-30** — [Binary Crossword](./2026-04-30_binary_crossword.py)
     - I brute force this one by checking all possible moves in `rows` and `columns` in the `matrix`. Also the `"0"` in the testcase...
 
+- **** — []()
+
+- **** — []()
+
+- **2026-05-03** — [Good Day](./2026-05-03_good_day.py)
+    - Doing the condition of the `Good night` part is something else, until just doing it with `else`, everything is fine.
+
 
 <!-- - **** — []() -->
