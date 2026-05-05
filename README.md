@@ -314,7 +314,7 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **** — []()a
+- **** — []()
 
 - **2026-05-03** — [Good Day](./2026-05-03_good_day.py)
     - Doing the condition of the `Good night` part is something else, until just doing it with `else`, everything is fine.
@@ -322,5 +322,7 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-05-04** — [Parsec Converter](./2026-05-04_parsec_converter.py)
     - I have no idea what is parsec, it is something like if even then distance else light year something something.
 
+- **2026-05-05** — [Narcissistic Number](./2026-05-05_narcissistic_number.py)
+    - One attempt, in this economy? That is to say, this is easy, very.
 
 <!-- - **** — []() -->
