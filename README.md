@@ -202,18 +202,17 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 
 - **** — []()
 
-- **2026-03-08** — [Array Sum](./2026-03-09_array_sum.py)
+- **2026-03-08** — [HSL Validator](./2026-03-08_hsl_validator.py)
+    - Another `re` strikes again, I actually still do not know how to put a condition in it myself, so I always ask for help. Actually how do one efficiently find the condition to look for something in `re`?
+
+- **2026-03-09** — [Array Sum](./2026-03-09_array_sum.py)
     - Sweat, blood, and tears of all it took for me to finally finish this program...
-
-- **** — []()
-
-- **2026-03-09** — [Word Length Converter](./2026-03-11_word_length_converter.py)
-    - I can actually use `map()` like that? If I did not know better, I could just loop it twice effectively making it `O(n^2)` or perhaps I will convert the `int` into `str` every time I add it into a single string variable in single loop. Well cool, there are actually many way of doing this.
 
 - **2026-03-10** — [Array Insertion](./2026-03-10_array_insertion.py)
     - Ok I learned another function called `insert()`. Look at the code and it does exactly what it does.
 
-- **** — []()
+- **2026-03-11** — [Word Length Converter](./2026-03-11_word_length_converter.py)
+    - I can actually use `map()` like that? If I did not know better, I could just loop it twice effectively making it `O(n^2)` or perhaps I will convert the `int` into `str` every time I add it into a single string variable in single loop. Well cool, there are actually many way of doing this.
 
 - **** — []()
 
