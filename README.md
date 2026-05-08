@@ -65,7 +65,8 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-01-13** — [Odd or Even?](./2026-01-13_odd_or_even.py)
     - I did this one for the love the game by checking the `[-1]` of the number then if it is `0, 2, 4, 6 , 8` it is even, else odd, instead of the usual `n % 2 == 0` modulus.
 
-- **** — []()
+- **2026-01-14** — [Markdown Link Parser](./2026-01-14_markdown_link_parser.py)
+    - I am lazy to do `re`, but I suppose doing it manually is lazier.
 
 - **2026-01-15** — [Array Swap](./2026-01-15_array_swap.py)
     - It seems I just raw dog this one, but hey, it works.
