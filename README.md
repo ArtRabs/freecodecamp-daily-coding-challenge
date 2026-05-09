@@ -325,4 +325,13 @@ This repo tracks my daily (or not) solutions to freeCodeCamp challenges.
 - **2026-05-05** — [Narcissistic Number](./2026-05-05_narcissistic_number.py)
     - One attempt, in this economy? That is to say, this is easy, very.
 
+- **** — []()
+
+- **** — []()
+
+- **** — []()
+
+- **2026-05-09** — [Transposed Matrix](./2026-05-09_transposed_matrix.py)
+    - Hold up, `zip` is actually fire? Forgive me, I was not familliar with built-in functions, just learned it today and it makes matrix life easy.
+
 <!-- - **** — []() -->
